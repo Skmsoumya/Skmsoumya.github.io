@@ -9,7 +9,13 @@ body {
 }
 
 .main {
-	height: inherit;
+	height: 80%;
+	background-color: #008080;
+}
+
+.secondary {
+	height: 100%;
+	background-color: #000000;
 }
 
 h1 {
