@@ -41,7 +41,7 @@ body {
 }
 
 .toSkills {
-	font-size: 2vmax;
+	font-size: 48px;
 	color: #ff0000;
 }
 
@@ -65,7 +65,7 @@ body {
 	position: fixed;
 	left: 5%;
 	top: 10%;
-	font-size: 30px;
+	font-size: 48px;
 	color: #946b2d;
 }
 
@@ -184,7 +184,7 @@ nav li:hover {
 	top: 190%;
 	left: 0;
 	right: 0;
-	font-size: 2vmax;
+	font-size: 48px;
 	color: #ffffff;
 }
 
