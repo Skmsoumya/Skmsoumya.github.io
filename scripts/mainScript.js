@@ -93,4 +93,8 @@ function main() {
 		window.open("http://codepen.io/skmSoumya/full/zGbOzN", '_blank');
 	});	
 
+	$(".unhealthy").click(function() {
+		window.open("#", '_blank');
+	});	
+
 };
