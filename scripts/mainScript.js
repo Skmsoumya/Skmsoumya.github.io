@@ -94,7 +94,7 @@ function main() {
 	});	
 
 	$(".unhealthy").click(function() {
-		window.open("#", '_blank');
+		window.open("http://soumyamishra.com/unhealthy/", '_blank');
 	});	
 
 };
