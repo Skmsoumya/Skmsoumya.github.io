@@ -467,7 +467,8 @@ if it's not present, don't show loader */
 		font-size: 6vh;
 	}
 	.text{
-		font-size: 1.25em;
+		font-size: 2em;
+		margin: 3% 2%;
 	}
 
 	.head, .work-head {
