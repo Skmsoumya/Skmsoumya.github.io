@@ -163,7 +163,7 @@ if it's not present, don't show loader */
 
 .text {
 	display: inline-block;
-	font-size: 3vh;
+	font-size: 1em;
 	
 	text-align: center;
 	margin-right: 10%;
@@ -467,7 +467,7 @@ if it's not present, don't show loader */
 		font-size: 6vh;
 	}
 	.text{
-		font-size: 1.75vh;
+		font-size: 1.25em;
 	}
 
 	.head, .work-head {
